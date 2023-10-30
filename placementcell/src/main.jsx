@@ -10,6 +10,7 @@ import Layout from './Layout.jsx';
 import Student from './Component/Student/Student.jsx';
 import Hr from './Component/Hr/Hr.jsx';
 import Tpo from './Component/Tpo/Tpo.jsx';
+import Registration from './Component/Register/Register.jsx';
 
 const router = createBrowserRouter(
   createRoutesFromElements(
@@ -22,6 +23,7 @@ const router = createBrowserRouter(
       <Route path='/login/student' element={<Student/>}/>
       <Route path='/login/Hr' element={<Hr/>}/>
       <Route path='/login/Tpo' element={<Tpo/>}/>
+     
       </Route>
   
   )
