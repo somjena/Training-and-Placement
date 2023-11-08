@@ -102,9 +102,8 @@ const About = () => {
           <Image src="/Images/Slideimages/skill.jpg" alt="Image 1" />
           <Title>Our Mission</Title>
           <Description>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac justo in nunc ultricies blandit.
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates quos tempora quo labore eum voluptatum cupiditate cum sit? Fugiat repellat reprehenderit ea quis nemo distinctio, possimus sint assumenda ut minima!
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Obcaecati ratione, ut eum maiores vitae qui voluptates? Rerum excepturi quo corrupti voluptatibus mollitia, aliquid unde aut! Quisquam eveniet harum ipsa non. Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia sequi pariatur laborum dolor? Aperiam doloremque natus porro repellat totam placeat iusto vitae animi. Expedita porro saepe provident molestias hic dolore.
+          The appropriate balance of knowledge and skills is the key to making a real difference. 
+          Centurion learning labs are real-time market linked production hubs for immersive and competency linked education deliveries.
           </Description>
           <BoxContainer>
             <Box>
