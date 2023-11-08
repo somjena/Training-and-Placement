@@ -48,6 +48,9 @@ const Footer = () => {
           <li>
             <Link to="/login">Login</Link>
           </li>
+          <li>
+            <link to="/profile">Profile</link>
+          </li>
         </ul>
       </Nav>
       <p>&copy; 2023 Your University. All rights reserved.</p>
